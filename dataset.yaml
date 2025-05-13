@@ -1,0 +1,13 @@
+names:
+- bleut
+- wifi
+- lum
+- home
+- phone
+- grid
+- fan
+- notif
+- bell
+path: /home/azaied@actia.local/Documents/TEST_IA/Generated
+train: images/train
+val: images/val
