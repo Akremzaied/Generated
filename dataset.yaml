@@ -8,6 +8,6 @@ names:
 - fan
 - notif
 - bell
-path: /Generated
+path: /kaggle/working/Generated
 train: images/train
 val: images/val
