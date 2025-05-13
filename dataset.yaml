@@ -8,6 +8,6 @@ names:
 - fan
 - notif
 - bell
-path: /home/azaied@actia.local/Documents/TEST_IA/Generated
+path: /Generated
 train: images/train
 val: images/val
